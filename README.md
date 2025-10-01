@@ -1,8 +1,3 @@
-<!-- ============================
-   ⚡ WorkingWithFarhan README
-   Premium | No edits needed | Copy-Paste Only
-   ============================ -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F0FF&center=true&vCenter=true&width=900&lines=⚡+FarhanKhan;💻+Full+Stack+%7C+Android+%7C+Game+Dev;🚀+Creating+Insane+Projects;🔥+Code+%2B+Design+%2B+Creativity" alt="Typing SVG" />
 </p>
