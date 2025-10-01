@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey there, I'm Farhan Khan!  
 
-<!--
-**WorkingWithFarhan/WorkingWithFarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Developer | Tech Explorer | Content Creator**  
+🚀 On a mission to code, create & conquer the digital world.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me:
+- 🎯 Currently leveling up in **Web, Android & Game Development**  
+- ⚡ Passionate about **building cool projects & solving problems**  
+- 🧩 Love mixing **creativity + logic** in my work  
+- 🌍 Dreaming to work in **Japan 🇯🇵** after BTech  
+- 🎥 Creating content on **Coding & Tech** to inspire others  
+
+---
+
+### 🛠️ Tech Stack:
+💡 Languages: `C++` | `JavaScript` | `Python`  
+🖌️ Frontend: `React` | `TailwindCSS`  
+⚙️ Backend: `Node.js` | `Express.js`  
+🗄️ Database: `MongoDB` | `MySQL`  
+🎮 Also exploring: `Unity` | `Android Studio`  
+
+---
+
+### 📊 GitHub Vibes:
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+
+---
+
+### ⚡ Fun Fact:  
+I don’t just **write code**, I turn ☕ into 💡 *ideas* and then into 💻 *projects*.  
+
+---
+✨ *Let’s connect & build something awesome together!* ✨
